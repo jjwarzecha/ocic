@@ -1,5 +1,5 @@
 # ocic
-OCI Classic migration scripts
+ocic.sh: Use this script to download and/or delete objects from OCI-Classic object storage.
 
 #### DISCLAIMER ####
 

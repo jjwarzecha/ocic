@@ -1,6 +1,9 @@
 # ocic
 ocic.sh: Use this script to download and/or delete objects from OCI-Classic object storage.
 
+1- $ chmod +x ./ocic.sh
+2- $ ./ocic.sh
+
 #### DISCLAIMER ####
 
 The sample scripts provided here are not supported under any standard support program or service. 

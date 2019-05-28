@@ -7,6 +7,8 @@ View a 60sec demo at https://objectstorage.eu-frankfurt-1.oraclecloud.com/n/olyg
 
 2- $ ./ocic.sh
 
+Tested on OL 7.x and MacOS X
+
 #### DISCLAIMER ####
 
 The sample scripts provided here are not supported under any standard support program or service. 
